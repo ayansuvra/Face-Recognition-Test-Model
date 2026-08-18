@@ -5,8 +5,9 @@ from insightface.app import FaceAnalysis
 
 
 # Load model once when the application starts
+
 app = FaceAnalysis(
-    name="buffalo_l",
+    name="buffalo_s",
     providers=["CPUExecutionProvider"]
 )
 
