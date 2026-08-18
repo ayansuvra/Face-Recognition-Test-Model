@@ -1,0 +1,6 @@
+__pycache__/
+data/
+myenv/
+Test/
+generate_embeddings.py
+students.json
